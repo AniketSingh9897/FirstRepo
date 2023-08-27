@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-31T23:07:11 IST" name="Default suite" finished-at="2023-07-31T23:08:05 IST" duration-ms="53616">
+    <groups>
+    </groups>
+    <test started-at="2023-07-31T23:07:11 IST" name="Default test" finished-at="2023-07-31T23:08:05 IST" duration-ms="53616">
+      <class name="org.testing.testscripts.TC1">
+        <test-method is-config="true" signature="url()[pri:0, instance:org.testing.testscripts.TC1@1e04fa0a]" started-at="2023-07-31T23:07:11 IST" name="url" finished-at="2023-07-31T23:07:36 IST" duration-ms="25396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="video()[pri:0, instance:org.testing.testscripts.TC1@1e04fa0a]" started-at="2023-07-31T23:07:36 IST" name="video" finished-at="2023-07-31T23:08:03 IST" duration-ms="26598" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- video -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:org.testing.testscripts.TC1@1e04fa0a]" started-at="2023-07-31T23:08:03 IST" name="quit" finished-at="2023-07-31T23:08:05 IST" duration-ms="1560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- org.testing.testscripts.TC1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
