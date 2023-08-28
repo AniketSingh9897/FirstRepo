@@ -3,10 +3,6 @@ package org.testing.testscripts;
 
 
 import java.io.IOException;
-import java.util.Date;
-
-import org.apache.log4j.Logger;
-import org.apache.log4j.PropertyConfigurator;
 import org.testing.Base.Base;
 import org.testing.Pages.HomePage;
 import org.testing.Pages.LoginPage;
