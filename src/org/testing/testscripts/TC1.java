@@ -44,7 +44,8 @@ public class TC1 extends Base
 
 	//	ScreenshotCapture.Screenshot(driver, "C://screenshots//TC_1"+CurrentTime.getTime().replaceAll(" ","").replaceAll("/", "").replaceAll(":","")+".png");	
 		
-		
+	System.out.println("test");
+	System.out.println("test");
 	}
 	
 	
